@@ -25,3 +25,5 @@ Para usar otro color es tan simple como cambiar el valor de la variable definida
 
 ## Nota
 No soy diseñador, ni desarrollador front-end. Toda mejora es bienvenida. He creado este estilo debido a la escasez de temas que he encontrado para la versión 1.3.1 de [MantisBT](https://www.mantisbt.org/). 
+
+![login screen](screen-blue.png)
